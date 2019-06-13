@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExternalFlight
+comment1.params=ticketPrice\ numberPassengers\ destination\ multiStopFlight\ countryAirline\ barCode
+comment1.target=ExternalFlight(double,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

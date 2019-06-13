@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Airport
+comment1.params=
+comment1.target=Airport()
+comment2.params=
+comment2.target=Airport\ getInstance()
+comment3.params=c
+comment3.target=void\ addFlight(Flight)
+comment4.params=barCode
+comment4.target=void\ flightType(java.lang.String)
+comment5.params=
+comment5.target=void\ showFlight()
+comment6.params=
+comment6.target=void\ showInternal()
+comment7.params=
+comment7.target=void\ showExternal()
+comment8.params=
+comment8.target=int\ getNumberFlights()
+numComments=9
